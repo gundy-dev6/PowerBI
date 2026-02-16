@@ -1,0 +1,151 @@
+LicenseID,SoftwareName,Vendor,Category,LicenseType,Seats,CostPerSeatUSD,TotalCostUSD,LicenseStartDate,LicenseEndDate,FiscalYear,BusinessUnit,Status
+LIC-001,Microsoft 365 E5,Microsoft,Productivity,User,250,57,14250,2023-01-01,2023-12-31,FY23,Enterprise IT,Expired
+LIC-002,Microsoft 365 E5,Microsoft,Productivity,User,260,58,15080,2024-01-01,2024-12-31,FY24,Enterprise IT,Expired
+LIC-003,Microsoft 365 E5,Microsoft,Productivity,User,275,60,16500,2025-01-01,2025-12-31,FY25,Enterprise IT,Active
+LIC-004,Power BI Premium,Microsoft,Analytics,Subscription,1,6000,6000,2023-01-01,2023-12-31,FY23,Enterprise IT,Expired
+LIC-005,Power BI Premium,Microsoft,Analytics,Subscription,1,6200,6200,2024-01-01,2024-12-31,FY24,Enterprise IT,Expired
+LIC-006,Power BI Premium,Microsoft,Analytics,Subscription,1,6500,6500,2025-01-01,2025-12-31,FY25,Enterprise IT,Active
+LIC-007,Power Apps Premium,Microsoft,Low-Code Platform,User,80,20,1600,2023-01-01,2023-12-31,FY23,Enterprise IT,Expired
+LIC-008,Power Apps Premium,Microsoft,Low-Code Platform,User,95,21,1995,2024-01-01,2024-12-31,FY24,Enterprise IT,Expired
+LIC-009,Power Apps Premium,Microsoft,Low-Code Platform,User,110,22,2420,2025-01-01,2025-12-31,FY25,Enterprise IT,Active
+LIC-010,Power Automate Premium,Microsoft,Automation,User,90,15,1350,2023-01-01,2023-12-31,FY23,Enterprise IT,Expired
+LIC-011,Power Automate Premium,Microsoft,Automation,User,100,16,1600,2024-01-01,2024-12-31,FY24,Enterprise IT,Expired
+LIC-012,Power Automate Premium,Microsoft,Automation,User,120,17,2040,2025-01-01,2025-12-31,FY25,Enterprise IT,Active
+LIC-013,Teams Phone,Microsoft,Communications,User,150,9,1350,2023-01-01,2023-12-31,FY23,Enterprise IT,Expired
+LIC-014,Teams Phone,Microsoft,Communications,User,160,10,1600,2024-01-01,2024-12-31,FY24,Enterprise IT,Expired
+LIC-015,Teams Phone,Microsoft,Communications,User,175,10,1750,2025-01-01,2025-12-31,FY25,Enterprise IT,Active
+LIC-016,Intune,Microsoft,Endpoint Management,User,220,7,1540,2023-01-01,2023-12-31,FY23,Infrastructure,Expired
+LIC-017,Intune,Microsoft,Endpoint Management,User,240,7,1680,2024-01-01,2024-12-31,FY24,Infrastructure,Expired
+LIC-018,Intune,Microsoft,Endpoint Management,User,260,8,2080,2025-01-01,2025-12-31,FY25,Infrastructure,Active
+LIC-019,Azure AD Premium P2,Microsoft,Identity,User,200,9,1800,2023-01-01,2023-12-31,FY23,Infrastructure,Expired
+LIC-020,Azure AD Premium P2,Microsoft,Identity,User,220,10,2200,2024-01-01,2024-12-31,FY24,Infrastructure,Expired
+LIC-021,Azure AD Premium P2,Microsoft,Identity,User,240,10,2400,2025-01-01,2025-12-31,FY25,Infrastructure,Active
+LIC-022,Microsoft Defender for Endpoint,Microsoft,Security,User,200,6,1200,2023-01-01,2023-12-31,FY23,Cyber Ops,Expired
+LIC-023,Microsoft Defender for Endpoint,Microsoft,Security,User,220,6,1320,2024-01-01,2024-12-31,FY24,Cyber Ops,Expired
+LIC-024,Microsoft Defender for Endpoint,Microsoft,Security,User,240,7,1680,2025-01-01,2025-12-31,FY25,Cyber Ops,Active
+LIC-025,Microsoft Defender for Cloud,Microsoft,Cloud Security,Subscription,1,12000,12000,2023-01-01,2023-12-31,FY23,Cyber Ops,Expired
+LIC-026,Microsoft Defender for Cloud,Microsoft,Cloud Security,Subscription,1,12600,12600,2024-01-01,2024-12-31,FY24,Cyber Ops,Expired
+LIC-027,Microsoft Defender for Cloud,Microsoft,Cloud Security,Subscription,1,13200,13200,2025-01-01,2025-12-31,FY25,Cyber Ops,Active
+LIC-028,Jira Software,Atlassian,Project Management,User,120,84,10080,2023-02-01,2024-01-31,FY23,Engineering,Expired
+LIC-029,Jira Software,Atlassian,Project Management,User,130,86,11180,2024-02-01,2025-01-31,FY24,Engineering,Expired
+LIC-030,Jira Software,Atlassian,Project Management,User,140,90,12600,2025-02-01,2026-01-31,FY25,Engineering,Active
+LIC-031,Confluence,Atlassian,Knowledge Management,User,120,60,7200,2023-02-01,2024-01-31,FY23,Engineering,Expired
+LIC-032,Confluence,Atlassian,Knowledge Management,User,130,62,8060,2024-02-01,2025-01-31,FY24,Engineering,Expired
+LIC-033,Confluence,Atlassian,Knowledge Management,User,140,65,9100,2025-02-01,2026-01-31,FY25,Engineering,Active
+LIC-034,Bitbucket,Atlassian,DevOps,User,60,36,2160,2023-02-01,2024-01-31,FY23,Engineering,Expired
+LIC-035,Bitbucket,Atlassian,DevOps,User,70,38,2660,2024-02-01,2025-01-31,FY24,Engineering,Expired
+LIC-036,Bitbucket,Atlassian,DevOps,User,80,40,3200,2025-02-01,2026-01-31,FY25,Engineering,Active
+LIC-037,GitHub Enterprise,GitHub,DevOps,Enterprise,1,21000,21000,2023-01-01,2023-12-31,FY23,Engineering,Expired
+LIC-038,GitHub Enterprise,GitHub,DevOps,Enterprise,1,22000,22000,2024-01-01,2024-12-31,FY24,Engineering,Expired
+LIC-039,GitHub Enterprise,GitHub,DevOps,Enterprise,1,23500,23500,2025-01-01,2025-12-31,FY25,Engineering,Active
+LIC-040,GitLab Ultimate,GitLab,DevOps,User,55,348,19140,2023-01-01,2023-12-31,FY23,Engineering,Expired
+LIC-041,GitLab Ultimate,GitLab,DevOps,User,60,360,21600,2024-01-01,2024-12-31,FY24,Engineering,Expired
+LIC-042,GitLab Ultimate,GitLab,DevOps,User,65,372,24180,2025-01-01,2025-12-31,FY25,Engineering,Active
+LIC-043,ServiceNow ITSM,ServiceNow,ITSM,Enterprise,1,48000,48000,2023-01-01,2023-12-31,FY23,Enterprise IT,Expired
+LIC-044,ServiceNow ITSM,ServiceNow,ITSM,Enterprise,1,50000,50000,2024-01-01,2024-12-31,FY24,Enterprise IT,Expired
+LIC-045,ServiceNow ITSM,ServiceNow,ITSM,Enterprise,1,52500,52500,2025-01-01,2025-12-31,FY25,Enterprise IT,Active
+LIC-046,Splunk Enterprise Security,Splunk,SIEM,Subscription,150,300,45000,2023-03-01,2024-02-29,FY23,Cyber Ops,Expired
+LIC-047,Splunk Enterprise Security,Splunk,SIEM,Subscription,165,310,51150,2024-03-01,2025-02-28,FY24,Cyber Ops,Expired
+LIC-048,Splunk Enterprise Security,Splunk,SIEM,Subscription,180,320,57600,2025-03-01,2026-02-28,FY25,Cyber Ops,Active
+LIC-049,Elastic Stack,Elastic,Security Analytics,Subscription,50,120,6000,2023-03-01,2024-02-29,FY23,Cyber Ops,Expired
+LIC-050,Elastic Stack,Elastic,Security Analytics,Subscription,60,125,7500,2024-03-01,2025-02-28,FY24,Cyber Ops,Expired
+LIC-051,Elastic Stack,Elastic,Security Analytics,Subscription,75,130,9750,2025-03-01,2026-02-28,FY25,Cyber Ops,Active
+LIC-052,CrowdStrike Falcon,CrowdStrike,EDR,User,400,10,4000,2023-01-01,2023-12-31,FY23,Cyber Ops,Expired
+LIC-053,CrowdStrike Falcon,CrowdStrike,EDR,User,420,11,4620,2024-01-01,2024-12-31,FY24,Cyber Ops,Expired
+LIC-054,CrowdStrike Falcon,CrowdStrike,EDR,User,450,12,5400,2025-01-01,2025-12-31,FY25,Cyber Ops,Active
+LIC-055,SentinelOne Singularity,SentinelOne,EDR,User,350,9,3150,2023-01-01,2023-12-31,FY23,Cyber Ops,Expired
+LIC-056,SentinelOne Singularity,SentinelOne,EDR,User,370,10,3700,2024-01-01,2024-12-31,FY24,Cyber Ops,Expired
+LIC-057,SentinelOne Singularity,SentinelOne,EDR,User,400,11,4400,2025-01-01,2025-12-31,FY25,Cyber Ops,Active
+LIC-058,Palo Alto Cortex XDR,Palo Alto Networks,EDR,Subscription,250,18,4500,2023-01-01,2023-12-31,FY23,Cyber Ops,Expired
+LIC-059,Palo Alto Cortex XDR,Palo Alto Networks,EDR,Subscription,265,19,5035,2024-01-01,2024-12-31,FY24,Cyber Ops,Expired
+LIC-060,Palo Alto Cortex XDR,Palo Alto Networks,EDR,Subscription,280,20,5600,2025-01-01,2025-12-31,FY25,Cyber Ops,Active
+LIC-061,Tenable.io,Tenable,Vulnerability Management,Subscription,200,15,3000,2023-05-01,2024-04-30,FY23,Cyber Ops,Expired
+LIC-062,Tenable.io,Tenable,Vulnerability Management,Subscription,220,16,3520,2024-05-01,2025-04-30,FY24,Cyber Ops,Expired
+LIC-063,Tenable.io,Tenable,Vulnerability Management,Subscription,240,17,4080,2025-05-01,2026-04-30,FY25,Cyber Ops,Active
+LIC-064,Qualys VMDR,Qualys,Vulnerability Management,Subscription,180,16,2880,2023-05-01,2024-04-30,FY23,Cyber Ops,Expired
+LIC-065,Qualys VMDR,Qualys,Vulnerability Management,Subscription,200,17,3400,2024-05-01,2025-04-30,FY24,Cyber Ops,Expired
+LIC-066,Qualys VMDR,Qualys,Vulnerability Management,Subscription,220,18,3960,2025-05-01,2026-04-30,FY25,Cyber Ops,Active
+LIC-067,Okta Workforce Identity,Okta,Identity,User,300,8,2400,2023-01-01,2023-12-31,FY23,Infrastructure,Expired
+LIC-068,Okta Workforce Identity,Okta,Identity,User,320,9,2880,2024-01-01,2024-12-31,FY24,Infrastructure,Expired
+LIC-069,Okta Workforce Identity,Okta,Identity,User,340,10,3400,2025-01-01,2025-12-31,FY25,Infrastructure,Active
+LIC-070,Duo Security,Cisco,Identity,User,500,3,1500,2023-01-01,2023-12-31,FY23,Infrastructure,Expired
+LIC-071,Duo Security,Cisco,Identity,User,520,3,1560,2024-01-01,2024-12-31,FY24,Infrastructure,Expired
+LIC-072,Duo Security,Cisco,Identity,User,550,4,2200,2025-01-01,2025-12-31,FY25,Infrastructure,Active
+LIC-073,Cisco AnyConnect,Cisco,Networking,User,600,2,1200,2023-01-01,2023-12-31,FY23,Infrastructure,Expired
+LIC-074,Cisco AnyConnect,Cisco,Networking,User,620,2,1240,2024-01-01,2024-12-31,FY24,Infrastructure,Expired
+LIC-075,Cisco AnyConnect,Cisco,Networking,User,650,2,1300,2025-01-01,2025-12-31,FY25,Infrastructure,Active
+LIC-076,Zscaler Internet Access,Zscaler,Zero Trust,Subscription,450,8,3600,2023-01-01,2023-12-31,FY23,Cyber Ops,Expired
+LIC-077,Zscaler Internet Access,Zscaler,Zero Trust,Subscription,475,9,4275,2024-01-01,2024-12-31,FY24,Cyber Ops,Expired
+LIC-078,Zscaler Internet Access,Zscaler,Zero Trust,Subscription,500,10,5000,2025-01-01,2025-12-31,FY25,Cyber Ops,Active
+LIC-079,Azure DevOps,Microsoft,DevOps,User,100,6,600,2023-01-01,2023-12-31,FY23,Engineering,Expired
+LIC-080,Azure DevOps,Microsoft,DevOps,User,110,6,660,2024-01-01,2024-12-31,FY24,Engineering,Expired
+LIC-081,Azure DevOps,Microsoft,DevOps,User,120,7,840,2025-01-01,2025-12-31,FY25,Engineering,Active
+LIC-082,Docker Business,Docker,DevOps,User,40,300,12000,2023-01-01,2023-12-31,FY23,Engineering,Expired
+LIC-083,Docker Business,Docker,DevOps,User,45,310,13950,2024-01-01,2024-12-31,FY24,Engineering,Expired
+LIC-084,Docker Business,Docker,DevOps,User,50,320,16000,2025-01-01,2025-12-31,FY25,Engineering,Active
+LIC-085,Kubernetes Support (Enterprise),Red Hat,DevOps,Subscription,1,18000,18000,2023-01-01,2023-12-31,FY23,Engineering,Expired
+LIC-086,Kubernetes Support (Enterprise),Red Hat,DevOps,Subscription,1,19000,19000,2024-01-01,2024-12-31,FY24,Engineering,Expired
+LIC-087,Kubernetes Support (Enterprise),Red Hat,DevOps,Subscription,1,20000,20000,2025-01-01,2025-12-31,FY25,Engineering,Active
+LIC-088,VMware vSphere,VMware,Virtualization,Enterprise,1,42000,42000,2023-04-01,2024-03-31,FY23,Infrastructure,Expired
+LIC-089,VMware vSphere,VMware,Virtualization,Enterprise,1,44000,44000,2024-04-01,2025-03-31,FY24,Infrastructure,Expired
+LIC-090,VMware vSphere,VMware,Virtualization,Enterprise,1,47000,47000,2025-04-01,2026-03-31,FY25,Infrastructure,Active
+LIC-091,Veeam Backup & Replication,Veeam,Backup,Subscription,20,900,18000,2023-01-01,2023-12-31,FY23,Infrastructure,Expired
+LIC-092,Veeam Backup & Replication,Veeam,Backup,Subscription,22,925,20350,2024-01-01,2024-12-31,FY24,Infrastructure,Expired
+LIC-093,Veeam Backup & Replication,Veeam,Backup,Subscription,24,950,22800,2025-01-01,2025-12-31,FY25,Infrastructure,Active
+LIC-094,Adobe Creative Cloud,Adobe,Design,User,25,65,1625,2023-01-01,2023-12-31,FY23,Marketing,Expired
+LIC-095,Adobe Creative Cloud,Adobe,Design,User,28,66,1848,2024-01-01,2024-12-31,FY24,Marketing,Expired
+LIC-096,Adobe Creative Cloud,Adobe,Design,User,30,68,2040,2025-01-01,2025-12-31,FY25,Marketing,Active
+LIC-097,Salesforce Sales Cloud,Salesforce,CRM,User,85,150,12750,2023-01-01,2023-12-31,FY23,Sales,Expired
+LIC-098,Salesforce Sales Cloud,Salesforce,CRM,User,90,155,13950,2024-01-01,2024-12-31,FY24,Sales,Expired
+LIC-099,Salesforce Sales Cloud,Salesforce,CRM,User,95,160,15200,2025-01-01,2025-12-31,FY25,Sales,Active
+LIC-100,Slack Enterprise Grid,Slack,Communications,User,300,12,3600,2023-01-01,2023-12-31,FY23,Enterprise IT,Expired
+LIC-101,Slack Enterprise Grid,Slack,Communications,User,320,12,3840,2024-01-01,2024-12-31,FY24,Enterprise IT,Expired
+LIC-102,Slack Enterprise Grid,Slack,Communications,User,340,13,4420,2025-01-01,2025-12-31,FY25,Enterprise IT,Active
+LIC-103,Zoom Enterprise,Zoom,Communications,User,200,18,3600,2023-01-01,2023-12-31,FY23,Enterprise IT,Expired
+LIC-104,Zoom Enterprise,Zoom,Communications,User,215,19,4085,2024-01-01,2024-12-31,FY24,Enterprise IT,Expired
+LIC-105,Zoom Enterprise,Zoom,Communications,User,230,20,4600,2025-01-01,2025-12-31,FY25,Enterprise IT,Active
+LIC-106,Google Workspace Enterprise,Google,Productivity,User,120,28,3360,2023-01-01,2023-12-31,FY23,Enterprise IT,Expired
+LIC-107,Google Workspace Enterprise,Google,Productivity,User,130,29,3770,2024-01-01,2024-12-31,FY24,Enterprise IT,Expired
+LIC-108,Google Workspace Enterprise,Google,Productivity,User,140,30,4200,2025-01-01,2025-12-31,FY25,Enterprise IT,Active
+LIC-109,Tableau Creator,Salesforce,Analytics,User,20,840,16800,2023-01-01,2023-12-31,FY23,Finance,Expired
+LIC-110,Tableau Creator,Salesforce,Analytics,User,22,860,18920,2024-01-01,2024-12-31,FY24,Finance,Expired
+LIC-111,Tableau Creator,Salesforce,Analytics,User,24,880,21120,2025-01-01,2025-12-31,FY25,Finance,Active
+LIC-112,Datadog,Datadog,Monitoring,Subscription,1,18000,18000,2023-01-01,2023-12-31,FY23,Engineering,Expired
+LIC-113,Datadog,Datadog,Monitoring,Subscription,1,19000,19000,2024-01-01,2024-12-31,FY24,Engineering,Expired
+LIC-114,Datadog,Datadog,Monitoring,Subscription,1,20500,20500,2025-01-01,2025-12-31,FY25,Engineering,Active
+LIC-115,New Relic,New Relic,Monitoring,Subscription,1,15000,15000,2023-01-01,2023-12-31,FY23,Engineering,Expired
+LIC-116,New Relic,New Relic,Monitoring,Subscription,1,15800,15800,2024-01-01,2024-12-31,FY24,Engineering,Expired
+LIC-117,New Relic,New Relic,Monitoring,Subscription,1,16500,16500,2025-01-01,2025-12-31,FY25,Engineering,Active
+LIC-118,Postman Enterprise,Postman,API Tools,User,50,240,12000,2023-01-01,2023-12-31,FY23,Engineering,Expired
+LIC-119,Postman Enterprise,Postman,API Tools,User,55,250,13750,2024-01-01,2024-12-31,FY24,Engineering,Expired
+LIC-120,Postman Enterprise,Postman,API Tools,User,60,260,15600,2025-01-01,2025-12-31,FY25,Engineering,Active
+LIC-121,Figma Organization,Figma,Design,User,35,144,5040,2023-01-01,2023-12-31,FY23,Marketing,Expired
+LIC-122,Figma Organization,Figma,Design,User,40,150,6000,2024-01-01,2024-12-31,FY24,Marketing,Expired
+LIC-123,Figma Organization,Figma,Design,User,45,155,6975,2025-01-01,2025-12-31,FY25,Marketing,Active
+LIC-124,Miro Enterprise,Miro,Collaboration,User,120,96,11520,2023-01-01,2023-12-31,FY23,Enterprise IT,Expired
+LIC-125,Miro Enterprise,Miro,Collaboration,User,130,98,12740,2024-01-01,2024-12-31,FY24,Enterprise IT,Expired
+LIC-126,Miro Enterprise,Miro,Collaboration,User,140,100,14000,2025-01-01,2025-12-31,FY25,Enterprise IT,Active
+LIC-127,PagerDuty,PagerDuty,Operations,User,35,420,14700,2023-01-01,2023-12-31,FY23,Engineering,Expired
+LIC-128,PagerDuty,PagerDuty,Operations,User,40,430,17200,2024-01-01,2024-12-31,FY24,Engineering,Expired
+LIC-129,PagerDuty,PagerDuty,Operations,User,45,440,19800,2025-01-01,2025-12-31,FY25,Engineering,Active
+LIC-130,HashiCorp Vault,HashiCorp,Security,Subscription,1,25000,25000,2023-01-01,2023-12-31,FY23,Cyber Ops,Expired
+LIC-131,HashiCorp Vault,HashiCorp,Security,Subscription,1,26000,26000,2024-01-01,2024-12-31,FY24,Cyber Ops,Expired
+LIC-132,HashiCorp Vault,HashiCorp,Security,Subscription,1,27500,27500,2025-01-01,2025-12-31,FY25,Cyber Ops,Active
+LIC-133,Terraform Cloud,HashiCorp,DevOps,User,30,240,7200,2023-01-01,2023-12-31,FY23,Engineering,Expired
+LIC-134,Terraform Cloud,HashiCorp,DevOps,User,35,250,8750,2024-01-01,2024-12-31,FY24,Engineering,Expired
+LIC-135,Terraform Cloud,HashiCorp,DevOps,User,40,260,10400,2025-01-01,2025-12-31,FY25,Engineering,Active
+LIC-136,AWS Business Support,AWS,Cloud,Subscription,1,12000,12000,2023-01-01,2023-12-31,FY23,Infrastructure,Expired
+LIC-137,AWS Business Support,AWS,Cloud,Subscription,1,12600,12600,2024-01-01,2024-12-31,FY24,Infrastructure,Expired
+LIC-138,AWS Business Support,AWS,Cloud,Subscription,1,13200,13200,2025-01-01,2025-12-31,FY25,Infrastructure,Active
+LIC-139,Azure Support Plan,Microsoft,Cloud,Subscription,1,11000,11000,2023-01-01,2023-12-31,FY23,Infrastructure,Expired
+LIC-140,Azure Support Plan,Microsoft,Cloud,Subscription,1,11500,11500,2024-01-01,2024-12-31,FY24,Infrastructure,Expired
+LIC-141,Azure Support Plan,Microsoft,Cloud,Subscription,1,12100,12100,2025-01-01,2025-12-31,FY25,Infrastructure,Active
+LIC-142,Red Hat Enterprise Linux,Red Hat,Operating System,Subscription,100,349,34900,2023-01-01,2023-12-31,FY23,Infrastructure,Expired
+LIC-143,Red Hat Enterprise Linux,Red Hat,Operating System,Subscription,110,355,39050,2024-01-01,2024-12-31,FY24,Infrastructure,Expired
+LIC-144,Red Hat Enterprise Linux,Red Hat,Operating System,Subscription,120,360,43200,2025-01-01,2025-12-31,FY25,Infrastructure,Active
+LIC-145,Oracle Database SE2,Oracle,Database,User,20,1750,35000,2023-01-01,2023-12-31,FY23,Enterprise IT,Expired
+LIC-146,Oracle Database SE2,Oracle,Database,User,20,1800,36000,2024-01-01,2024-12-31,FY24,Enterprise IT,Expired
+LIC-147,Oracle Database SE2,Oracle,Database,User,20,1850,37000,2025-01-01,2025-12-31,FY25,Enterprise IT,Active
+LIC-148,SQL Server Enterprise,Microsoft,Database,Enterprise,1,42000,42000,2023-01-01,2023-12-31,FY23,Enterprise IT,Expired
+LIC-149,SQL Server Enterprise,Microsoft,Database,Enterprise,1,44000,44000,2024-01-01,2024-12-31,FY24,Enterprise IT,Expired
+LIC-150,SQL Server Enterprise,Microsoft,Database,Enterprise,1,47000,47000,2025-01-01,2025-12-31,FY25,Enterprise IT,Active
